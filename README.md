@@ -14,7 +14,7 @@ Header with "My Dashboard" and today's date- Three statistics cards (Total Users
 
 ```bash
 git clone https://github.com/Shamitha-L/TGPS.git
-cd TGPS - ASSIGNMENT
+cd TGPS
 
 ### 2 Start backend
 cd backend
